@@ -11,6 +11,7 @@ public class ServiceProperties {
     private String message;
 
     public String getMessage() {
+        // modify here
         return message;
     }
 
